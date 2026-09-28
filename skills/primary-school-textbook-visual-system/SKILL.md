@@ -1,3 +1,8 @@
+---
+name: primary-school-textbook-visual-system
+description: Create consistent visual assets for the primary-school Computational Thinking textbook, following its curriculum, mascot, and visual style.
+---
+
 # Skill: Primary School Textbook Visual System
 
 ## Purpose
