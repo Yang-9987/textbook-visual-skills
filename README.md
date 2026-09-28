@@ -54,3 +54,15 @@
 > 使用 primary-school-textbook-visual-system Skill，生成栏目标题“一起发现”，配放大镜小图标，透明背景。
 
 更多案例见 `examples/`。
+
+
+## Reference files
+
+- `references/CURRICULUM.md` — 课程定位和当前 18 课大纲摘要
+- `references/VISUAL-GUIDE.md` — 教材视觉规范
+- `references/mascot/MASCOT-GUIDE.md` — 首师附一小官方吉祥物规范（等待官方样图补全）
+- `source/README.md` — 原始课程 PDF 的仓库放置说明
+
+### 重要
+
+学校官方吉祥物必须使用官方样图建立角色规范。在样图补全之前，本项目不把任何临时生成角色认定为学校官方吉祥物。
