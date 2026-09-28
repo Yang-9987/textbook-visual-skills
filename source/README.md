@@ -70,6 +70,18 @@ PDF 是原始依据，CURRICULUM.md 是可执行摘要，两者职责不同。
 
 建议改用 Git LFS 或单独的素材存储方案，避免仓库体积快速膨胀。
 
-## 当前说明
+## 当前状态
 
-课程 PDF 与官方吉祥物图建议作为项目源文件长期保留；主 Skill 不直接复制这些二进制内容，而是通过 reference 文档说明如何使用。
+以下课程源文件已上传：
+
+- `计算思维（初阶）18次课程大纲.pdf`
+
+课程 PDF 与官方吉祥物图均已作为项目核心源文件保留。
+
+主 Skill 不复制二进制内容，而是通过：
+
+- `references/CURRICULUM.md`
+- `references/VISUAL-GUIDE.md`
+- `references/mascot/MASCOT-GUIDE.md`
+
+建立可执行的结构化规则。
