@@ -3,6 +3,21 @@
 > 本文件定义《计算思维》教材中首师附一小官方吉祥物的角色基准、允许扩展范围、教材分工和优先动作库。  
 > 生成新动作时，必须同时参考本文件与仓库中的官方样图，不得仅凭文字重新设计角色。
 
+## 当前官方源图状态
+
+官方参考图已上传至：
+
+`references/mascot/source-images/`
+
+当前文件：
+
+- `tiangcheng-standard.png` — 甜橙标准形象
+- `yangguang-standard.png` — 阳光标准形象
+- `xiaoyi-standard.png` — 小一标准形象
+- `tech-extension-reference.png` — 科技专题扩展参考
+
+从现在起，这 4 个文件属于角色视觉生成的一级参考依据。
+
 ---
 
 # 1. 官方角色体系
